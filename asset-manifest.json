@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ag9731/portfolioakash.git/static/css/main.75cf31dd.css",
+    "main.js": "/ag9731/portfolioakash.git/static/js/main.68eecfbd.js",
+    "static/js/787.128fc6e9.chunk.js": "/ag9731/portfolioakash.git/static/js/787.128fc6e9.chunk.js",
+    "static/media/profile.jpg": "/ag9731/portfolioakash.git/static/media/profile.a559897d382660728e3a.jpg",
+    "static/media/p6.png": "/ag9731/portfolioakash.git/static/media/p6.3f60a970f918f5eea7ce.png",
+    "static/media/p5.png": "/ag9731/portfolioakash.git/static/media/p5.35105de8d5edffcfd3ae.png",
+    "static/media/p2.png": "/ag9731/portfolioakash.git/static/media/p2.2d3040585fc23d3347d4.png",
+    "static/media/p1.png": "/ag9731/portfolioakash.git/static/media/p1.0a74227218b7cb98adb0.png",
+    "index.html": "/ag9731/portfolioakash.git/index.html",
+    "main.75cf31dd.css.map": "/ag9731/portfolioakash.git/static/css/main.75cf31dd.css.map",
+    "main.68eecfbd.js.map": "/ag9731/portfolioakash.git/static/js/main.68eecfbd.js.map",
+    "787.128fc6e9.chunk.js.map": "/ag9731/portfolioakash.git/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75cf31dd.css",
+    "static/js/main.68eecfbd.js"
+  ]
+}
